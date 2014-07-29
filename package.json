@@ -1,0 +1,22 @@
+{
+  "name": "coinkite-javascript",
+  "version": "0.0.1",
+  "description": "Coinkite API for Javascript and Node.js",
+  "main": "coinkite-api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coinkite/coinkite-javascript.git"
+  },
+  "keywords": [
+    "Bitcoin"
+  ],
+  "author": "Coinkite",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coinkite/coinkite-javascript/issues"
+  },
+  "homepage": "https://github.com/coinkite/coinkite-javascript"
+}
